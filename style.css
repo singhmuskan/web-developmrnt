@@ -1,0 +1,38 @@
+        body {
+            text-align: center;
+            background-color: rgba(171, 140, 179, 0.808);
+            font-style: oblique;
+        }
+        
+        form {
+            margin-left: 70%;
+        }
+        
+        h1 {
+            font-size: 55px;
+            color: rgba(77, 82, 83, 0.904);
+            font-weight: 45px;
+        }
+        
+        h2 {
+            font-size: 25px;
+            font-style: oblique;
+            color: rgb(75, 6, 139);
+        }
+        
+        p {
+            font-size: 20px;
+            margin-top: 2%;
+            margin-bottom: 4%;
+            color: rgb(172, 15, 62);
+        }
+        
+        img {
+            margin-top: 1%;
+            margin-bottom: 1%;
+        }
+        
+        #head {
+            font-size: 30px;
+            color: rgba(212, 13, 13, 0.363);
+        }
